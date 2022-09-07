@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SalAlhammadi
-- 👀 I’m interested in Mobile Devlopment
-- 🌱 I’m currently invested in Flutter
+- 👀 I’m interested in Java Devlopment
+- 🌱 I’m currently working as DevOp Engineer
 - 💞️ I’m looking to collaborate on AI enhanced mobile apps
 - 📫 How to reach me: alhammadi.salem@outlook.sa
 
