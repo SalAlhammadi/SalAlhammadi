@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @SalAlhammadi
-- 👀 I’m interested in Java Devlopment
-- 🌱 I’m currently working as DevOp Engineer
-- 💞️ I’m looking to collaborate on AI enhanced mobile apps
-- 📫 How to reach me: alhammadi.salem@outlook.sa
+- 👀 I’m interested local tech market
+- 🌱 I’m currently working as Senior Full Stack Engineer
+- 📫 How to reach me: salem.alhammadi9791@gmail.com
 
-<!---
-SalAlhammadi/SalAlhammadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
